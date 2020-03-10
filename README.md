@@ -1,2 +1,2 @@
 # CLASS_CODE
-CLASS CODE STORE HERE
+store some code (c/c++) file here
